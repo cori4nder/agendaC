@@ -24,7 +24,6 @@ void telaPrincipal() {
     printf("[G] - Gravar da RAM para o Disco\n");
     printf("[F] - Finalizar\n\n");
     printf("[*]   Digite a opcao: ");
-
 }
 
 void opcIncluir() {
