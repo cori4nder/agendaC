@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // limpa o cabeçalho
+#include <stdlib.h> 
 #include <string.h>
 
 #define MAXNOME 30
